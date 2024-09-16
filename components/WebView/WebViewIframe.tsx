@@ -10,6 +10,7 @@ const WebViewIframe: React.FC<WebViewIframeProps> = ({ url }) => {
   return (
     <SafeAreaView style={styles.container}>
       <WebView 
+        useWebView2={true}
         source={{ uri: url }} 
         style={styles.webview} 
       />

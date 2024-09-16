@@ -4,7 +4,7 @@
       {
         "name": "Debug Windows",
         "cwd": "${workspaceFolder}",
-        "type": "reactnative",
+        "type": "cppdbg",
         "request": "launch",
         "platform": "windows"
       }

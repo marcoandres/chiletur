@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="f0c82659-5fa2-4954-8fdf-1fab5e3226e7"
+    Name="d2d060e1-95b2-4326-8a37-ea01a2c9f8c4"
     Publisher="CN=marco"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="f0c82659-5fa2-4954-8fdf-1fab5e3226e7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="d2d060e1-95b2-4326-8a37-ea01a2c9f8c4" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>chiletur</DisplayName>
